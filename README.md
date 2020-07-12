@@ -1,2 +1,2 @@
-# android_internal_training
-用于提升Android内功
+# android internal training
+Android内功修炼
